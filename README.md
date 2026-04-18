@@ -1,6 +1,6 @@
 # Will Burks
 
-[william-burks.dev](https://william-burks.dev/) · [LinkedIn](https://www.linkedin.com/in/william-burks-ii/) · burkswill2@gmail.com
+[william-burks.dev](https://william-burks.dev/) · [LinkedIn](https://www.linkedin.com/in/william-burks-ii/) · will@william-burks.dev
 
 Software engineer at JPMorgan Chase. Day job is consumer banking backend
 (Java/Spring, Kotlin, React/TypeScript). Outside of work I build systematic
