@@ -1,5 +1,7 @@
 # Will Burks
 
+[william-burks.dev](https://william-burks.dev/) · [LinkedIn](https://www.linkedin.com/in/william-burks-ii/) · burkswill2@gmail.com
+
 Software engineer at JPMorgan Chase. Day job is consumer banking backend
 (Java/Spring, Kotlin, React/TypeScript). Outside of work I build systematic
 trading infrastructure, AI agents, and MCP servers, and I'm learning
@@ -41,8 +43,3 @@ FTS5.
 
 BS Molecular Genetics + CS minor, Ohio State (2024). SWE I → SWE II at
 JPMorgan in 18 months.
-
-## Contact
-
-- Email: burkswill2@gmail.com
-- LinkedIn: [william-burks-ii](https://www.linkedin.com/in/william-burks-ii/)
